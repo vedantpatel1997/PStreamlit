@@ -30,7 +30,7 @@ def main():
     load_dotenv()
 
     ## The title() method is used to display the title of the web app top browser tab.
-    st.title("VP AI SQL Assistant")
+    st.title("VP AI SQL Assistant Version 1.1")
     ## The header() method is used to display the header of the web app page.
     st.header("Your SQL Database Mediator Assistant - POC Project")
     ## The text_input() method is used to take the input from the user.
